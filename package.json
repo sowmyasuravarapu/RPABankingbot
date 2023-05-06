@@ -17,7 +17,7 @@
     "lodash.filter": "^4.6.0",
     "lodash.once": "^4.1.1",
     "mail-listener2": "^0.3.1",
-    "mailparser": "^2.3.2",
+    "mailparser": "^3.6.4",
     "nodemailer-smtp-transport": "^2.7.4",
     "pdfkit": "^0.8.3",
     "randomstring": "^1.1.5",
